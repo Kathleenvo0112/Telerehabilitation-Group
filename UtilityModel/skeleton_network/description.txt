@@ -1,0 +1,5 @@
+4_load_full_dataset.py takes the raw skeleton files and turns them into the .pt dataset
+_5_dataset.py is what loads in the dataset and augments the data
+_6_cnn_model.py is the actual implementation of the model
+7_train_cnn.py is how the model is trained (and how the data is split, etc.)
+the .pth file is the actual saved model
